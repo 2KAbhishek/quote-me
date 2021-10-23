@@ -26,7 +26,7 @@
 <h3>Hits you with random quotes 💣🤓</h3>
 
 <figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/quote-me/main/images/screenshot.png" alt="quote-me Demo" style="width:100%">
+  <img src= "https://raw.githubusercontent.com/2KAbhishek/quote-me/main/images/screenshot.jpg" alt="quote-me Demo" style="width:100%">
   <br/>
   <figcaption>quote-me screenshot</figcaption>
 </figure>
