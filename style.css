@@ -84,7 +84,7 @@ footer a {
     cursor: pointer;
 }
 #quote-box .buttons .button:hover {
-    opacity: 0.9;
+    opacity: 0.8;
 }
 #quote-box .buttons .button#tweet-quote {
     float: left;
