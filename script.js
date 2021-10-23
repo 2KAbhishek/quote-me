@@ -45,7 +45,7 @@ function getQuote() {
 
     $('#tweet-quote').attr(
         'href',
-        'https://twitter.com/intent/tweet?hashtags=quote-me&related=freecodecamp&text=' +
+        'https://twitter.com/intent/tweet?hashtags=QuoteMe&related=2KAbhishek&text=' +
             encodeURIComponent('"' + currentQuote + '" - ' + currentAuthor)
     );
 
