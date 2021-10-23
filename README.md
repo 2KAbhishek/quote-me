@@ -23,7 +23,7 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h3>Short sweet headline with 🎇🎉</h3>
+<h3>Hits you with random quotes 💣🤓</h3>
 
 <figure>
   <img src= "https://raw.githubusercontent.com/2KAbhishek/quote-me/main/images/screenshot.png" alt="quote-me Demo" style="width:100%">
@@ -35,70 +35,49 @@
 
 ## What is this
 
-quote-me is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+quote-me is a minimalistic random quote machine, that hits you with random quotes.
 
 ## Inspiration
 
-quote-me was inspired by `<reason/idea>`.
+quote-me was inspired by me liking quotes and a boring saturday afternoon.
+
+(P.S: I actually had to complete the FCC Curriculum after procrasinating forever.)
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed the latest version of any web browser.
 
 ## Getting quote-me
 
-To install quote-me, follow these steps:
+To get quote-me, follow these steps:
 
 ```bash
 git clone https://github.com/2kabhishek/quote-me
 cd quote-me
-<install_command>
+# Open index.html in your browser
+$EDITOR . # Take a look at the source code
 ```
 
 ## Using quote-me
 
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
+Click on the reload button to get a new quote.
 
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
-```
+Click on the tweet button to tweet the quote.
 
 ## How it was built
 
-quote-me was built using `<tech/library>`
+quote-me was built using `HTML, CSS, jQuery` (ahh the good old days).
 
 ## Challenges faced
 
-While building quote-me the main challenges were `<issue/difficulty>`
+Analysis paralysis between scss or css. (Ya, I know XD)
 
 ## What I learned
 
-While building quote-me I `<learned/accomplished>` about `<learning/accomplishment>`
-
-## What's next
-
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-- [ ] Change me
-- [ ] Update README
-- [ ] Finish it
+- Re visited jQuery.
+- Some css fun.
 
 Hit the ⭐ button if you found this useful.
 
